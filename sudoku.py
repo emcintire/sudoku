@@ -51,6 +51,5 @@ def solution():
                 return 
     print(np.matrix(grid))
 
-
-solution()   
-#print(check(15,15,2))
+if __name__ == "__main__":
+    solution()   
